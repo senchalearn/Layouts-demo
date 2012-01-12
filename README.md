@@ -45,7 +45,7 @@ Each of the links below represents a snapshot of the code at a point in the vide
 
 First, you'll have to clone this repository:
 
-    git clone git://github.com/nelstrom/Sencha-Touch-layouts-demo.git
+    git clone git://github.com/senchalearn/Layouts-demo.git
 
 Change into the directory:
 
@@ -89,22 +89,22 @@ Here is a live demo of the [Exquisite corpse][corpse] example. You can also find
 [corpse]: http://exquisite-corpse.heroku.com
 [gitcorpse]: https://github.com/nelstrom/Exquisite-corpse
 
-[00]:  https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/00_blank_slate
-[01a]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/01a_auto_layout
-[01b]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/01b_auto_layout
-[02a]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/02a_fit_layout
-[02b]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/02b_fit_layout
-[03]:  https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/03_card_layout
-[04a]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/04a_tab_panel
-[04b]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/04b_tab_panel
-[05a]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/05a_carousel
-[05b]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/05b_carousel
-[06a]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/06a_box_layout
-[06b]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/06b_box_layout
-[06c]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/06c_box_layout
-[06d]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/06d_box_layout
-[06e]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/06e_box_layout
-[07]:  https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/07_traffic_light_carousel
-[08a]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/08a_exquisite_corpse
-[08b]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/08b_exquisite_corpse
-[08c]: https://github.com/nelstrom/Sencha-Touch-layouts-demo/tree/08c_exquisite_corpse
+[00]:  https://github.com/senchalearn/Layouts-demo/tree/00_blank_slate
+[01a]: https://github.com/senchalearn/Layouts-demo/tree/01a_auto_layout
+[01b]: https://github.com/senchalearn/Layouts-demo/tree/01b_auto_layout
+[02a]: https://github.com/senchalearn/Layouts-demo/tree/02a_fit_layout
+[02b]: https://github.com/senchalearn/Layouts-demo/tree/02b_fit_layout
+[03]:  https://github.com/senchalearn/Layouts-demo/tree/03_card_layout
+[04a]: https://github.com/senchalearn/Layouts-demo/tree/04a_tab_panel
+[04b]: https://github.com/senchalearn/Layouts-demo/tree/04b_tab_panel
+[05a]: https://github.com/senchalearn/Layouts-demo/tree/05a_carousel
+[05b]: https://github.com/senchalearn/Layouts-demo/tree/05b_carousel
+[06a]: https://github.com/senchalearn/Layouts-demo/tree/06a_box_layout
+[06b]: https://github.com/senchalearn/Layouts-demo/tree/06b_box_layout
+[06c]: https://github.com/senchalearn/Layouts-demo/tree/06c_box_layout
+[06d]: https://github.com/senchalearn/Layouts-demo/tree/06d_box_layout
+[06e]: https://github.com/senchalearn/Layouts-demo/tree/06e_box_layout
+[07]:  https://github.com/senchalearn/Layouts-demo/tree/07_traffic_light_carousel
+[08a]: https://github.com/senchalearn/Layouts-demo/tree/08a_exquisite_corpse
+[08b]: https://github.com/senchalearn/Layouts-demo/tree/08b_exquisite_corpse
+[08c]: https://github.com/senchalearn/Layouts-demo/tree/08c_exquisite_corpse
